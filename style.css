@@ -1,4 +1,16 @@
 .container {
 	padding-top: 200px;
-	
+	display: i;
+  	width: 100%;
+
 }
+
+body {
+	background-color: #3993f326;
+
+}
+
+#navBar {
+	background-color: rgba(190, 187, 187, 0.938);
+}
+
